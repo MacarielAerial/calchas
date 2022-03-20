@@ -21,4 +21,3 @@ jobs:
 
       - name: Test
         run: pipenv run ./test.sh
-  
